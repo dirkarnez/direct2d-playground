@@ -1,0 +1,3 @@
+build
+!build/Release/direct2d-playground.manifest
+.vscode/settings.json
